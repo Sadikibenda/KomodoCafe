@@ -1,0 +1,11 @@
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Data\obj\Debug\net8.0\KomodoCafe_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Data\obj\Debug\net8.0\KomodoCafe_Data.AssemblyInfoInputs.cache
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Data\obj\Debug\net8.0\KomodoCafe_Data.AssemblyInfo.cs
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Data\obj\Debug\net8.0\KomodoCafe_Data.csproj.CoreCompileInputs.cache
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Data\bin\Debug\net8.0\KomodoCafe_Data.deps.json
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Data\bin\Debug\net8.0\KomodoCafe_Data.dll
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Data\bin\Debug\net8.0\KomodoCafe_Data.pdb
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Data\obj\Debug\net8.0\KomodoCafe_Data.dll
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Data\obj\Debug\net8.0\refint\KomodoCafe_Data.dll
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Data\obj\Debug\net8.0\KomodoCafe_Data.pdb
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Data\obj\Debug\net8.0\ref\KomodoCafe_Data.dll

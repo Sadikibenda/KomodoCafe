@@ -1,0 +1,15 @@
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\obj\Debug\net8.0\KomodoCafe_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\obj\Debug\net8.0\KomodoCafe_Repository.AssemblyInfoInputs.cache
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\obj\Debug\net8.0\KomodoCafe_Repository.AssemblyInfo.cs
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\obj\Debug\net8.0\KomodoCafe_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\obj\Debug\net8.0\KomodoCafe_Repository.csproj.AssemblyReference.cache
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\bin\Debug\net8.0\KomodoCafe_Repository.deps.json
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\bin\Debug\net8.0\KomodoCafe_Repository.dll
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\bin\Debug\net8.0\KomodoCafe_Repository.pdb
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\bin\Debug\net8.0\KomodoCafe_Data.dll
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\bin\Debug\net8.0\KomodoCafe_Data.pdb
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\obj\Debug\net8.0\KomodoCafe_Repository.csproj.CopyComplete
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\obj\Debug\net8.0\KomodoCafe_Repository.dll
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\obj\Debug\net8.0\refint\KomodoCafe_Repository.dll
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\obj\Debug\net8.0\KomodoCafe_Repository.pdb
+C:\Users\Sathish\ELEVENFIFTYPROJECTS\codingFoundations\dotnetProjects\KomodoCafe\KomodoCafe_Repository\obj\Debug\net8.0\ref\KomodoCafe_Repository.dll
